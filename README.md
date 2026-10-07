@@ -20,10 +20,9 @@ I've delivered an iOS app used by business staff, collaborated on a wellness pla
   <img src="assets/focus.png" width="100%" alt="My focus: Mobile experiences / Full-stack applications / Applied AI" />
 </p>
 
-## Selected work
+<p><img src="assets/work-heading.png" width="100%" alt="Selected work" /></p>
 
-### 01 / America's Travel Express
-**An everyday workflow, made simpler.**
+<p><img src="assets/travel.gif" width="100%" alt="America’s Travel Express — animated airplane and sales chart. 80% less reporting time." /></p>
 
 Delivered a React Native iOS application adopted by staff to manage sales, inventory, and daily revenue. Built authentication and catalog retrieval with Firebase, persistent account-scoped local state, and automated PDF reporting.
 
@@ -33,8 +32,7 @@ Delivered a React Native iOS application adopted by staff to manage sales, inven
 
 ---
 
-### 02 / [LifeLens ↗](https://github.com/mcampo0215/lifelens)
-**Wellness tracking with a personal touch.**
+<p><a href="https://github.com/mcampo0215/lifelens"><img src="assets/lifelens.gif" width="100%" alt="LifeLens — animated heart and wellness signal. 70% higher engagement among 20 test users. View repository." /></a></p>
 
 Collaborated with a five-person team on a full-stack wellness application. Developed DistilBERT emotion classification and integrated embedding-based retrieval with Weaviate to support relevant wellness guidance. A personalized avatar reflected users' moods and activity.
 
@@ -42,16 +40,21 @@ Collaborated with a five-person team on a full-stack wellness application. Devel
 
 `Flutter` `FastAPI` `Firebase` `Weaviate` `DistilBERT`
 
+[Explore LifeLens →](https://github.com/mcampo0215/lifelens)
+
 ---
 
-### 03 / [Playlist Generator ↗](https://github.com/mcampo0215/AshleyAI-Playlist)
-**Your listening history. Your next favorite track.**
+<p><a href="https://github.com/mcampo0215/AshleyAI-Playlist"><img src="assets/playlist.gif" width="100%" alt="Playlist Generator — headphones with an animated equalizer. Weekly playlists for 30 users. View repository." /></a></p>
 
 Built and deployed an application that generated weekly playlists for **30 users** from their Apple Music listening histories. Integrated the Apple Music API with server-side developer-token handling and personalized recommendations of up to **30 tracks**.
 
 `TypeScript` `Node.js` `Apple Music API` `Vercel`
 
-## My toolkit
+[Explore Playlist Generator →](https://github.com/mcampo0215/AshleyAI-Playlist)
+
+<p><img src="assets/stack-heading.png" width="100%" alt="My toolkit" /></p>
+
+<p><img src="assets/toolkit.png" width="100%" alt="Brand logos: TypeScript, JavaScript, Python, Java, React, Flutter, Next.js, Node.js, FastAPI, Firebase, PostgreSQL, MySQL, Docker, Git, Spring, Tailwind CSS, HTML5, and CSS3." /></p>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -60,7 +63,7 @@ Built and deployed an application that generated weekly playlists for **30 users
 | **Backend** | Node.js · FastAPI · Spring Boot |
 | **Data & tools** | PostgreSQL · MySQL · Firebase · Docker · Git |
 
-## The foundation
+<p><img src="assets/education-heading.png" width="100%" alt="Education and background" /></p>
 
 **City College of New York** — M.S., Computer Science · August 2026–Present  
 **New York Institute of Technology** — B.S., Computer Science · September 2022–May 2026
@@ -83,5 +86,5 @@ At Lavner Education, I led project-based programming instruction and guided stud
 </p>
 
 <p align="center">
-  <img src="assets/footer.png" width="100%" alt="Matthew Campoverde / Build with intention." />
+  <img src="assets/footer.gif" width="100%" alt="Matthew Campoverde / Build with intention." />
 </p>
