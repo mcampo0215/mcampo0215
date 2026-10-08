@@ -12,7 +12,7 @@
 
 ### Good software starts with the people using it.
 
-I'm **Matthew**, a software developer and **M.S. Computer Science student at City College of New York**. I build mobile and full-stack applications, with an interest in interfaces that feel intuitive and AI features that serve a clear purpose.
+I'm **Matthew**, a software engineer and **M.S. Computer Science student at The City College of New York**. I build mobile and full-stack applications, with an interest in interfaces that feel intuitive and AI features that serve a clear purpose.
 
 I've delivered an iOS app used by business staff, collaborated on a wellness platform, and built personalized music recommendations. I also taught Java, Python, and JavaScript at **Lavner Education**—an experience that made me a more thoughtful technical communicator.
 
