@@ -10,6 +10,12 @@
   <a href="https://github.com/mcampo0215?tab=repositories"><img src="assets/projects.png" height="36" alt="Explore my repositories" /></a>
 </p>
 
+<p align="center">
+  <a href="#good-software-starts-with-the-people-using-it">About</a> &nbsp; · &nbsp;
+  <a href="#explore-the-projects">Project directory</a> &nbsp; · &nbsp;
+  <a href="https://github.com/mcampo0215?tab=repositories">All repositories</a>
+</p>
+
 ### Good software starts with the people using it.
 
 I'm **Matthew**, a software engineer and **M.S. Computer Science student at The City College of New York**. I build mobile and full-stack applications, with an interest in interfaces that feel intuitive and AI features that serve a clear purpose.
@@ -62,6 +68,19 @@ Built and deployed an application that generated weekly playlists for **30 users
 | **Web & mobile** | Next.js · React Native · Flutter · Expo · Tailwind CSS |
 | **Backend** | Node.js · FastAPI · Spring Boot |
 | **Data & tools** | PostgreSQL · MySQL · Firebase · Docker · Git |
+
+## Explore the projects
+
+<img src="docs/readme/hero.gif" alt="Animated connections between web, mobile, data, and ideas in Matthew's project collection" width="1040" />
+
+| Explore | Projects |
+| :--- | :--- |
+| **Mobile experiences** | [America's Travel](https://github.com/mcampo0215/Americas-Travel) · [LifeLens](https://github.com/mcampo0215/lifelens) · [Pawnder](https://github.com/mcampo0215/Pawnder_Frontend) |
+| **Full-stack experiments** | [AshleyAI Playlist](https://github.com/mcampo0215/AshleyAI-Playlist) · [User Authentication](https://github.com/mcampo0215/UserAuthentication) · [Penalty Kick Analyzer](https://github.com/mcampo0215/Penalty-Kick-Analyzer) |
+| **Data and algorithms** | [GameVault](https://github.com/mcampo0215/GameVault) · [NYC Mobility](https://github.com/mcampo0215/nyc-mobility-data-platform) · [Markov Chains](https://github.com/mcampo0215/MarkovChains) · [AlgoVisualization](https://github.com/mcampo0215/AlgoVisualization) |
+| **Small builds** | [Dice Roller](https://github.com/mcampo0215/dice_roller) · [Expense Tracker](https://github.com/mcampo0215/expense_tracker_app) · [Quiz App](https://github.com/mcampo0215/quiz_app) · [Karaoke Database](https://github.com/mcampo0215/karaoke_db) |
+
+Each repository documents its own implementation and current scope.
 
 <p><img src="assets/education-heading.png" width="100%" alt="Education and background" /></p>
 
